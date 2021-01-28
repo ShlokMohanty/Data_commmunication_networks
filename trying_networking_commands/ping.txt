@@ -2,3 +2,5 @@ C:\User\Shlok Mohanty> ping -4 www.google.com
 output/result:
 pinging www.google.com[216.58.196.195] with 32bytes of data:
 reply from 216.58.196.195: bytes:32  time:15ms   TTL:119
+
+hi
